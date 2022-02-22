@@ -7,3 +7,4 @@
 6)Calculate nth Harmonic value program.
 7)Calculate Prime factor of number N.
 8) Calculate Quotient and Remainder.
+9) Swap the two number.
