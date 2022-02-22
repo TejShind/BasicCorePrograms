@@ -6,6 +6,7 @@
 5)Print the table of Power of two.
 6)Calculate nth Harmonic value program.
 7)Calculate Prime factor of number N.
-8) Calculate Quotient and Remainder.
-9) Swap the two number.
+8)Calculate Quotient and Remainder.
+9)Swap the two number.
 10)Character to check it is Vowel or Consonant.
+11)Largest amoung three number.
