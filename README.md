@@ -4,4 +4,4 @@
 3)Calculate percentage of FilpCoin.
 4)Check the entered year is Leap Year or not.
 5)Print the table of Power of two.
-6)Harmonic number program.
+6)Calculate nth Harmonic value program.
