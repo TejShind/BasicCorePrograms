@@ -6,3 +6,4 @@
 5)Print the table of Power of two.
 6)Calculate nth Harmonic value program.
 7)Calculate Prime factor of number N.
+8) Calculate Quotient and Remainder.
