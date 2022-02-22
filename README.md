@@ -8,3 +8,4 @@
 7)Calculate Prime factor of number N.
 8) Calculate Quotient and Remainder.
 9) Swap the two number.
+10)Character to check it is Vowel or Consonant.
